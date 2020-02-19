@@ -1,0 +1,9 @@
+{
+  "name": "ngx-gallery-9",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/common": "^9.0.1",
+    "@angular/core": "^9.0.1",
+    "tslib": "^1.10.0"
+  }
+}
