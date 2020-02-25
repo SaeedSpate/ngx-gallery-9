@@ -1,6 +1,14 @@
 {
-  "name": "ngx-gallery",
-  "version": "0.0.0",
+  "name": "ngx-gallery-9",
+  "version": "1.0.4",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/SaeedSpate/ngx-gallery-9"
+  },
+  "bugs": {
+    "email": "yazdani.zs@gmail.com",
+    "url": "https://github.com/SaeedSpate/ngx-gallery-9/issues"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +17,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~9.0.1",
     "@angular/common": "~9.0.1",

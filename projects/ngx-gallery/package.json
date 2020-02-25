@@ -1,9 +1,27 @@
 {
   "name": "ngx-gallery-9",
-  "version": "0.1.0",
+  "version": "1.0.4",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/SaeedSpate/ngx-gallery-9"
+  },
+  "bugs": {
+    "email": "yazdani.zs@gmail.com",
+    "url": "https://github.com/SaeedSpate/ngx-gallery-9/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^9.0.1",
     "@angular/core": "^9.0.1",
     "tslib": "^1.10.0"
-  }
+  },
+  "main": "bundles/ngx-gallery-9.umd.js",
+  "module": "fesm5/ngx-gallery-9.js",
+  "es2015": "fesm2015/ngx-gallery-9.js",
+  "esm5": "esm5/ngx-gallery-9.js",
+  "esm2015": "esm2015/ngx-gallery-9.js",
+  "fesm5": "fesm5/ngx-gallery-9.js",
+  "fesm2015": "fesm2015/ngx-gallery-9.js",
+  "typings": "ngx-gallery-9.d.ts",
+  "metadata": "ngx-gallery-9.metadata.json",
+  "sideEffects": false
 }
