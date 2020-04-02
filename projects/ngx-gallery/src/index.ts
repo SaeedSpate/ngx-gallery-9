@@ -1,8 +1,4 @@
-/*
- * Public API Surface of ngx-gallery
- */
 export * from './lib/ngx-gallery.component';
-export * from './lib/ngx-gallery.module';
 export * from './lib/ngx-gallery-action/ngx-gallery-action.component';
 export * from './lib/ngx-gallery-image/ngx-gallery-image.component';
 export * from './lib/ngx-gallery-thumbnails/ngx-gallery-thumbnails.component';
